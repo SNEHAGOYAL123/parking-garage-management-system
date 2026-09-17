@@ -5,3 +5,4 @@ __pycache__/
 database/*.db
 cookies.txt
 *.db
+app.py.backup
